@@ -62,7 +62,10 @@ La salida del modelo segmenta la cartera de clientes en tres niveles de riesgo:
 - Incorporar técnicas de interpretabilidad a nivel individual que expliquen por qué cada cliente está en riesgo, no solo que lo identifiquen, para diseñar intervenciones más ajustadas a cada perfil.
 
 ## Autores
-
-Eliane Brenda Antara-Gallupe, Antonio Saenz-Camero, Gabriel Marcelo Ferré-Castro, Arianna Yauri-Azabache, Moisés Salcedo-Reyes.
+1. Eliane Brenda Antara Gallupe
+2. Gabriel Marcelo Ferré Castro
+3. Antonio Alejandro Saenz Camero
+4. Moisés Jhael Salcedo Reyes
+5. Arianna Micaela Yauri Azabache
 
 Facultad de Ingeniería Eléctrica y Electrónica, Universidad Nacional de Ingeniería, Lima, Perú.
